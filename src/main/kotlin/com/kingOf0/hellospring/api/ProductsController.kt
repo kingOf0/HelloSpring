@@ -1,4 +1,4 @@
-package com.kingOf0.hellospring.api.controller
+package com.kingOf0.hellospring.api
 
 import com.kingOf0.hellospring.business.abstract.IProductService
 import com.kingOf0.hellospring.entity.concrete.Product
